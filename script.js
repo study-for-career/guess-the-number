@@ -85,7 +85,7 @@ guess.addEventListener('click', function(){
     
       allGuesses.push(input.value);
       guessHolder.innerHTML = allGuesses;
-      input.value = '';
+     // input.value = '';
     }
     
      
